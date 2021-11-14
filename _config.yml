@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Adam J. Berlier
+title: AI/Robotics Portfolio
 email: ajberlier@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This website serves as my personal portfolio. The primary goal of the content is to communicate progress in my research/projects while facilitating respectful scientific discussion.
+  Adam J Berlier's AI/Robotics portfolio. The primary goal of this content is to communicate progress in AI/Robotics research/development while facilitating respectful scientific discussion.
 twitter_username: ajberlier
 github_username: ajberlier
 minimal_mistakes_skin: default
@@ -59,20 +59,21 @@ author:
   name   : "Adam J. Berlier"
   avatar : "/assets/images/goldengate-profile.jpeg"
   bio    : "AI/Robotics Researcher at JHU/APL <br>Computer Science Ph.D. Student at UMBC"
+  location: "Baltimore, MD"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Berlier Built"
+      icon: "fas fa-fw fa-cog"
+      url: "https://berlierbuilt.com"
+     - label: "Google Scholar"
+      icon: "fab fa-fw fa-graduation-cap"
+      url: "https://scholar.google.co.in/citations?user=NX9UKx4AAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-google-scholar"
-      url: "https://scholar.google.co.in/citations?user=NX9UKx4AAAAJ&hl=en"
-
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+   
 # footer:
 #   links:
 #     - label: "Twitter"
@@ -107,7 +108,7 @@ defaults:
 
 category_archive:
   type: liquid
-  path: /categories/
+  path: /projects/
 tag_archive:
   type: liquid
   path: /tags/
