@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Adam J. Berlier"
   avatar : "/assets/images/goldengate-profile.jpeg"
-  bio    : "- AI/Robotics Researcher at JHU/APL <br> - Computer Science Ph.D. Student at UMBC"
+  bio    : "AI/Robotics Researcher at JHU/APL <br>Computer Science Ph.D. Student at UMBC"
   location: "Baltimore, MD"
   links:
     - label: "Berlier Built"
