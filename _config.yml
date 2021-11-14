@@ -64,7 +64,7 @@ author:
     - label: "Berlier Built"
       icon: "fas fa-fw fa-cog"
       url: "https://berlierbuilt.com"
-     - label: "Google Scholar"
+    - label: "Google Scholar"
       icon: "fab fa-fw fa-graduation-cap"
       url: "https://scholar.google.co.in/citations?user=NX9UKx4AAAAJ&hl=en"
     - label: "GitHub"
