@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: AI/Robotics
+title: Robot Intelligence
 email: ajberlier@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Adam J Berlier's AI/Robotics portfolio. The primary goal of this content is to communicate progress in AI/Robotics research and development while facilitating respectful scientific discussion.
