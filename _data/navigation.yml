@@ -9,7 +9,5 @@ main:
     url: /projects/
   - title: "Tutorials"
     url: /tutorials/
-  - title: "Resume/CV"
-    url: /resume/
   - title: "About"
     url: /about/
