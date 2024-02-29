@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Adam J. Berlier"
   avatar : "/assets/images/goldengate-profile.jpeg"
-  bio    : "Data Science Consultant at Focused Ingenuity Inc.<br>Former AI/Robotics Research Engineer at JHU/APL<br>Computer Science Ph.D. Student at UMBC"
+  bio    : "Data Science Consultant at Focused Ingenuity Inc.<br>Former AI/Robotics Research Engineer at JHU/APL<br>Computer Science Ph.D. Student at University of Maryland Baltimore County"
   location: "Baltimore, MD"
   links:
     - label: "Berlier Built"
