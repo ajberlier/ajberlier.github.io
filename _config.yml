@@ -59,12 +59,15 @@ plugins:
 author:
   name   : "Adam J. Berlier"
   avatar : "/assets/images/goldengate-profile.jpeg"
-  bio    : "• Data Science Consultant at Focused Ingenuity Inc.<br>• Former AI/Robotics Research Engineer at Johns Hopkins University Applied Physics Laboratory<br>• Computer Science Ph.D. Student at University of Maryland Baltimore County"
+  bio    : "• Data Science Consultant at Focused Ingenuity Inc.<br>• Computer Science Ph.D. Student at University of Maryland Baltimore County"
   location: "Baltimore, MD"
   links:
-    - label: "Berlier Built"
-      icon: "fas fa-fw fa-cog"
-      url: "https://berlierbuilt.com"
+    # - label: "Berlier Built"
+    #   icon: "fas fa-fw fa-cog"
+    #   url: "https://berlierbuilt.com"
+    - label: "ajberlier@gmail.com"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:ajberlier@gmail.com"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.co.in/citations?user=NX9UKx4AAAAJ&hl=en"
@@ -74,9 +77,12 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ajberlier/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "IRAL"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://iral.cs.umbc.edu/index.html"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
    
 # footer:
 #   links:
