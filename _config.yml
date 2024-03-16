@@ -59,15 +59,14 @@ plugins:
 author:
   name   : "Adam J. Berlier"
   avatar : "/assets/image/goldengate-profile.jpeg"
-  bio    : "Data Science Consultant at Focused Ingenuity Inc.<br><br>Computer Science Ph.D. Student at University of Maryland Baltimore County<br>
-  Advisor: Dr. Cynthia Matuszek<br>Lab: Interactive Robotics and Language Lab (IRAL)<br><br>Research Focus: Reinforcement Learning in Human-Robot Interaction"
+  bio    : "Data Science Consultant at Focused Ingenuity Inc.<br><br>Computer Science Ph.D. Student at University of Maryland Baltimore County<br> Advisor: Dr. Cynthia Matuszek<br>Lab: Interactive Robotics and Language Lab (IRAL)<br><br>Research Focus: Reinforcement Learning in Human-Robot Interaction"
   location: "Baltimore, MD"
   links:
     # - label: "Berlier Built"
     #   icon: "fas fa-fw fa-cog"
     #   url: "https://berlierbuilt.com"
     - label: "ajberlier@gmail.com"
-      icon: "fas fa-fw fa-gmail"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:ajberlier@gmail.com"
     - label: "IRAL"
       icon: "fab fa-fw fa-robot"
