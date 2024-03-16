@@ -66,7 +66,7 @@ author:
     #   icon: "fas fa-fw fa-cog"
     #   url: "https://berlierbuilt.com"
     - label: "ajberlier@gmail.com"
-      icon: "fas fa-fw fa-envelope"
+      icon: "fab fa-fw fa-envelope"
       url: "mailto:ajberlier@gmail.com"
     - label: "IRAL"
       icon: "fab fa-fw fa-robot"
