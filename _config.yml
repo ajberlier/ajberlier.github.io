@@ -69,7 +69,7 @@ author:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:ajberlier@gmail.com"
     - label: "IRAL"
-      icon: "fab fa-fw fa-robot"
+      icon: "fas fa-fw fa-robot"
       url: "https://iral.cs.umbc.edu/index.html"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
