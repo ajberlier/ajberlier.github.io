@@ -59,8 +59,7 @@ plugins:
 author:
   name   : "Adam J. Berlier"
   avatar : "/assets/image/goldengate-profile.jpeg"
-  bio    : "Senior AI Research Scientist at CACI International Inc<br><br>Computer Science Ph.D. Student at University of Maryland Baltimore County, Interactive Robotics and Language (IRAL) Lab<br>Advisor: Dr. Cynthia Matuszek<br><br>Research Focus: Reinforcement Learning in Human-Robot Interaction"
-  location: "Denver, CO"
+  bio    : "Senior AI Research Scientist<br>CACI International Inc<br><br>Computer Science Ph.D. Student<br>University of Maryland Baltimore County (UMBC)<br>Interactive Robotics and Language (IRAL) Lab<br>Advisor: Dr. Cynthia Matuszek<br><br>Research Focus: Reinforcement Learning in Human-Robot Interaction"  location: "Denver, CO"
   links:
     - label: "ajberlier@gmail.com"
       icon: "fas fa-fw fa-envelope"
