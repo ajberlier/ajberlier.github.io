@@ -66,7 +66,7 @@ author:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:ajberlier@gmail.com"
     - label: "WD4AJB"
-      icon: "fas fa-fw fa-walkie-talkie"
+      icon: "fa-solid fa-walkie-talkie"
     - label: "IRAL"
       icon: "fas fa-fw fa-robot"
     #   url: ""
